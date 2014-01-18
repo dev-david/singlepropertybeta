@@ -44,42 +44,42 @@
 
 						<article class="item thumb" data-width="282">
 							<h2>You really got me</h2>
-							<a href="images/front1.jpg"><img src="images/front1.jpg" alt=""></a>
+							<a href="images/Front1.jpg"><img src="images/Front1.jpg" alt=""></a>
 						</article>
 						
 						<article class="item thumb" data-width="384">
 							<h2>Ad Infinitum</h2>
-							<a href="images/front2.jpg"><img src="images/front2.jpg" alt=""></a>
+							<a href="images/Front2.jpg"><img src="images/Front2.jpg" alt=""></a>
 						</article>
 						
 						<article class="item thumb" data-width="274">
 							<h2>Different.</h2>
-							<a href="images/front3.jpg"><img src="images/front3.jpg" alt=""></a>
+							<a href="images/Front3.jpg"><img src="images/Front3.jpg" alt=""></a>
 						</article>
 						
 						<article class="item thumb" data-width="282">
 							<h2>Elysium</h2>
-							<a href="images/front4.jpg"><img src="images/front4.jpg" alt=""></a>
+							<a href="images/Front4.jpg"><img src="images/Front4.jpg" alt=""></a>
 						</article>
 						
 						<article class="item thumb" data-width="476">
 							<h2>Kingdom of the Wind</h2>
-							<a href="images/front1.jpg"><img src="images/front1.jpg" alt=""></a>
+							<a href="images/Front1.jpg"><img src="images/Front1.jpg" alt=""></a>
 						</article>
 						
 						<article class="item thumb" data-width="232">
 							<h2>The Pursuit</h2>
-							<a href="images/front2.jpg"><img src="images/front2.jpg" alt=""></a>
+							<a href="images/Front2.jpg"><img src="images/Front2.jpg" alt=""></a>
 						</article>
 						
 						<article class="item thumb" data-width="352">
 							<h2>Boundless</h2>
-							<a href="images/front3.jpg"><img src="images/front3.jpg" alt=""></a>
+							<a href="images/Front3.jpg"><img src="images/Front3.jpg" alt=""></a>
 						</article>
 						
 						<article class="item thumb" data-width="348">
 							<h2>The Spectators</h2>
-							<a href="images/front4.jpg"><img src="images/front4.jpg" alt=""></a>
+							<a href="images/Front4.jpg"><img src="images/Front4.jpg" alt=""></a>
 						</article>
 
 					<!-- Filler Thumb Items (just for demonstration purposes) -->
