@@ -1,14 +1,8 @@
 <!DOCTYPE HTML>
-<!--
 
-	Parallelism 1.1 by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
--->
 <html>
 	<head>
-		<title>Parallelism by HTML5 UP</title>
+		<title>1737 Spruce Street - San Leandro, CA</title>
 		<meta name="viewport" content="width=1120,user-scalable=no" />
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
@@ -41,7 +35,8 @@
 					
 						<div id="header" class="item" data-width="400">
 							<h1>1737 Spruce Street</h1>
-							<p>3 Bed | 1 Bath | 1100 Sq Ft | 5000 Lot<br />
+							<p>San Leandro, CA 12345 <br />
+								3 Bed | 1 Bath | 1100 Sq Ft | 5000 Lot<br />
 							$399,000</p>
 						</div>
 					
