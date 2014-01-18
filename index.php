@@ -35,7 +35,7 @@
 					
 						<div id="header" class="item" data-width="400">
 							<h1>1737 Spruce Street</h1>
-							<p>San Leandro, CA 12345 <br />
+							<p>San Leandro, CA 00000 <br />
 								3 Bed | 1 Bath | 1100 Sq Ft | 5000 Lot<br />
 							$399,000</p>
 						</div>
